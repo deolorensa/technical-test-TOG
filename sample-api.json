@@ -1,0 +1,21 @@
+
+{
+  "sample-api": {
+      "items": [
+          {
+            "item": {
+              "id":1
+            },
+            "name": "Pizza",
+            "price": 200000
+          },
+          {
+            "item": {
+              "id":2
+            },
+            "name": "Burger",
+            "price": 50000
+          }
+      ]
+  }
+}
