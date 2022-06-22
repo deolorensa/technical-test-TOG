@@ -4,7 +4,8 @@
 ```
 npm install
 ```
-
+### Run JSON Server
+npm run sample-api:serve
 ### Compiles and hot-reloads for development
 ```
 npm run serve
